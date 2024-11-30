@@ -11,7 +11,7 @@ I am currently a PhD Candidate at the [Copernicus Institute of Sustainable Devel
 
 Within my project, I aim to investigate the effects of regenerative agriculture on aboveground biodiversity. 
 
-My PhD project is part of an interdisciplinary research programme 
+My PhD project is part of [ReGeNL](https://regenl.nl), an interdisciplinary research programme 
 
 
 
