@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD Candidate at the Copernicus Institute of Sustainable Development, part of Utrecht University.
+I am currently a PhD Candidate at the [Copernicus Institute of Sustainable Development](https://www.uu.nl/en/research/copernicus-institute-of-sustainable-development), which is part of Utrecht University.
 
 
 
