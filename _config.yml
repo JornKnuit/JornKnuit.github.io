@@ -21,7 +21,7 @@ repository               : "JornKnuit/JornKnuit.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ProfilePicture.jpeg"
+  avatar           : "ProfilePicture_correct.jpeg"
   name             : "Jorn Knuit"
   pronouns         : "He/Him"  
   bio              : "PhD Candidate"
