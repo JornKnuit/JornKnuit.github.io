@@ -13,4 +13,4 @@ My PhD project is part of [ReGeNL](https://regenl.nl), a transdisciplinary resea
 
 Background
 ======
-Before starting my PhD, I completed my Bachelor in Biology and Master in Environmental Biology at Utrecht University.
+Before starting my PhD, I completed my BSc in Biology and MSc in Environmental Biology at Utrecht University. During my BSc, I specialised in ecology, evolutionary biology, behavioural biology, and theoretical biology. I developed a keen interest in modelling and computational approaches, mainly to solve ecological problems. During my MSc, I further developed this interest through several research projects. While my MSc projects were varied, overarching themes were restoration ecology, landscape ecology, and a modelling approach.
