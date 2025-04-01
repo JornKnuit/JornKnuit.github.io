@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* MSc. in Environmental Biology, Utrecht University, 2024 
-  Ecology and Natural Resource Management
+* MSc. in Environmental Biology, Utrecht University, 2024 <br>
+Ecology and Natural Resource Management
 * BSc. in Biology, Utrecht University, 2022
 
 Work experience
