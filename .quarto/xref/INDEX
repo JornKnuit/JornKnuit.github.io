@@ -7,5 +7,29 @@
   },
   "cv.qmd": {
     "cv.html": "16ffff48"
+  },
+  "blog.qmd": {
+    "blog.html": "05bacd21"
+  },
+  "contact.qmd": {
+    "contact.html": "3138b66d"
+  },
+  "JornKnuit.github.io/blog.qmd": {
+    "blog.html": "a584d89b"
+  },
+  "JornKnuit.github.io/contact.qmd": {
+    "contact.html": "71422693"
+  },
+  "JornKnuit.github.io/cv.qmd": {
+    "cv.html": "24946678"
+  },
+  "JornKnuit.github.io/index.qmd": {
+    "index.html": "b882a901"
+  },
+  "JornKnuit.github.io/research.qmd": {
+    "research.html": "6a3797af"
+  },
+  "research.qmd": {
+    "research.html": "ff9e4411"
   }
 }
