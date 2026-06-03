@@ -27,12 +27,13 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -42,7 +43,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c51defa157ccb18095ba4b35bf459923.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-57ab3ec246d0c0231a63e4927948ad11.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,12 +71,71 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+<style>html{ scroll-behavior: smooth; }</style>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-sidebar floating nav-fixed slimcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -105,7 +165,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html"> 
+    <a class="nav-link" href="./blog/"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
@@ -118,56 +178,109 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-center sidebar-header">
+      <a href="./index.html" class="sidebar-logo-link">
+      <img src="./profilepic.jpeg" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="./profilepic.jpeg" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
+      </a>
+      <div class="sidebar-tools-main tools-wide">
+    <a href="mailto:j.j.h.knuit@uu.nl" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-envelope"></i></a>
+    <a href="https://github.com/JornKnuit" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
+    <a href="https://scholar.google.com/citations?user=ZI-OOf0AAAAJ&amp;hl=nl" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-globe"></i></a>
+    <a href="hhttps://www.linkedin.com/in/jorn-knuit-b4246b172/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-linkedin"></i></a>
+    <a href="https://www.uu.nl/medewerkers/JJHKnuit" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-house-door-fill"></i></a>
+    <a href="https://orcid.org/0009-0004-2350-9237" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-person-badge"></i></a>
+</div>
+      </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#about-me" id="toc-about-me" class="nav-link active" data-scroll-target="#about-me">About me</a></li>
+  <li><a href="#latest-posts" id="toc-latest-posts" class="nav-link" data-scroll-target="#latest-posts">Latest posts</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content page-columns page-full" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
-<div class="columns">
-<div class="column" style="width:25%;">
-<div class="profile-box">
-<p><img src="profilepic.jpeg" class="img-fluid"></p>
-<div class="name">
-Jorn Knuit
+
+<div class="no-row-height column-margin column-container"><div class="">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="UULogo.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
 </div>
-<div class="social-icons">
-<p><a href="https://github.com/JornKnuit" target="_blank" aria-label="GitHub"> <i class="bi bi-github"></i> </a></p>
-<p><a href="https://scholar.google.com/citations?user=ZI-OOf0AAAAJ&amp;hl=nl" target="_blank" aria-label="Google Scholar"> <i class="bi bi-mortarboard-fill"></i> </a></p>
-<p><a href="https://www.linkedin.com/in/jorn-knuit-b4246b172/" target="_blank" aria-label="LinkedIn"> <i class="bi bi-linkedin"></i> </a></p>
-<p><a href="https://orcid.org/0009-0004-2350-9237" target="_blank" aria-label="ORCID"> <i class="bi bi-journal-text"></i> </a></p>
-<p><a href="https://www.uu.nl/medewerkers/JJHKnuit" target="_blank" aria-label="Utrecht University profile"> <i class="bi bi-building"></i> </a></p>
-<p><a href="https://bsky.app/profile/yourhandle.bsky.social" target="_blank" aria-label="Bluesky"> <span class="bsky-icon">🦋</span> </a></p>
+<p><br><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="ReGeNLLogo.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></p>
+</figure>
 </div>
-<div class="contact">
-<p><i class="bi bi-envelope"></i> <a href="mailto:j.j.h.knuit@uu.nl">j.j.h.knuit@uu.nl</a></p>
-</div>
-<p><em>PhD Candidate in Biodiversity Responses to Regenerative Agriculture<br>
-Copernicus Institute, Utrecht University</em></p>
-</div>
-</div><div class="column" style="width:60%;">
-<p><strong>About me</strong></p>
-<hr>
-<p>I’m a PhD candidate based in Utrecht, at the <a href="https://www.uu.nl/en/research/copernicus-institute-of-sustainable-development">Copernicus Institute of Sustainable Development</a>. Here, I work on quantifying and understanding responses of aboveground biodiversity to regenerative agriculture. My PhD project is part of <a href="https://regenl.nl/">ReGeNL</a>, a transdisciplinary programme aiming to aid in the transition towards a futureproof agricultural sector in the Netherlands. I am supervised by <a href="https://www.uu.nl/staff/MBSoons">Prof.&nbsp;dr. Merel Soons</a>, <a href="https://www.uu.nl/staff/JvanDijk2">Dr.&nbsp;Jerry van Dijk</a>, and <a href="https://www.uu.nl/staff/SJNorder">Dr.&nbsp;Sietze Norder</a>, and work in close collaboration with a <a href="https://regenl.nl/team/onderzoekers/">large team of researchers from Dutch universities and research institutes</a>.</p>
-</div><div class="column" style="width:15%;">
-<div class="logo-column">
-<p><a href="https://www.uu.nl"><img src="UULogo.png" class="img-fluid"></a></p>
-<p><a href="https://regenl.nl/"><img src="ReGeNLLogo.png" class="img-fluid"></a></p>
-</div>
-</div>
+</div></div><section id="about-me" class="level2">
+<h2 class="anchored" data-anchor-id="about-me">About me</h2>
+<p>I’m a PhD candidate based in Utrecht, at the <a href="https://www.uu.nl/en/research/copernicus-institute-of-sustainable-development">Copernicus Institute of Sustainable Development</a>. Here, I work on quantifying and understanding responses of aboveground biodiversity to regenerative agriculture. My PhD project is part of <a href="https://regenl.nl/">ReGeNL</a>, a transdisciplinary programme aiming to aid in the transition towards a futureproof agricultural sector in the Netherlands.</p>
+<p>I am supervised by <a href="https://www.uu.nl/staff/MBSoons">Prof.&nbsp;dr. Merel Soons</a>, <a href="https://www.uu.nl/staff/JvanDijk2">Dr.&nbsp;Jerry van Dijk</a>, and <a href="https://www.uu.nl/staff/SJNorder">Dr.&nbsp;Sietze Norder</a>, and work in close collaboration with a <a href="https://regenl.nl/team/onderzoekers/">large team of researchers from Dutch universities and research institutes</a>.</p>
+</section>
+<section id="latest-posts" class="level2">
+<h2 class="anchored" data-anchor-id="latest-posts">Latest posts</h2>
+<div class="center-listing">
+
 </div>
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1780437600000" data-listing-file-modified-sort="1780516220551" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="thumbnail"><a href="./blog/posts/fieldwork_start_2026.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/posts/fieldwork_start_2026.html" class="no-external">Start of 2026 field season!</a>
+</h3>
+<div class="delink listing-description"><a href="./blog/posts/fieldwork_start_2026.html" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./blog/posts/fieldwork_start_2026.html" class="no-external">
+<div class="listing-date">
+Jun 3, 2026
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -255,6 +368,11 @@ Copernicus Institute, Utrecht University</em></p>
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -573,4 +691,5 @@ Copernicus Institute, Utrecht University</em></p>
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

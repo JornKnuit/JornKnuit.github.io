@@ -1,0 +1,176 @@
+/*-- scss:defaults --*/
+
+$font-family-sans-serif: 'Inter', sans-serif;
+$font-family-serif: 'Playfair Display', serif;
+
+/* =========================================================
+   NEW THEME PALETTE (sandstone + mint academic)
+========================================================= */
+
+$body-bg: #F3EFD9;              /* sandstone base */
+$body-color: #2E2E2E;
+
+$link-color: #2F6F63;           /* muted mint */
+$link-hover-color: #1F4D45;
+
+$code-bg: #F5F5F5;
+
+/* Sidebar */
+$sidebar-bg: #F3EFD9;
+$sidebar-fg: #333333;
+$sidebar-border-color: #F3EFD9;
+$sidebar-active-color: #2F6F63;
+
+/* Navbar */
+$navbar-bg: rgba(47, 111, 99, 0.92);   /* mint instead of red */
+$navbar-fg: #F3EFD9;
+$navbar-hl: #D7EFE7;
+
+/*-- scss:rules --*/
+
+/* =========================================================
+   LINKS
+========================================================= */
+
+a {
+  text-decoration: none !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+/* =========================================================
+   HEADINGS (softer academic green-brown tone)
+========================================================= */
+
+h1, h2, h3, h4, h5, h6 {
+  color: #23412E; /* deep academic green */
+  font-family: 'Playfair Display', serif;
+}
+
+/* =========================================================
+   NAVBAR (muted mint instead of red)
+========================================================= */
+
+.navbar {
+  background-color: rgba(47, 111, 99, 0.92);
+  color: #F3EFD9;
+}
+
+/* =========================================================
+   SIDEBAR BASE
+========================================================= */
+
+#quarto-sidebar {
+  background: #F3EFD9;
+  border-right: none;
+}
+
+/* =========================================================
+   PROFILE CARD (softer + mint-accented)
+========================================================= */
+
+.sidebar-header {
+  background: #E6F2EE; /* soft mint */
+  border: 1.5px solid #B7D9CF;
+  border-radius: 14px;
+  padding: 1.25rem 1rem 1rem !important;
+  margin: 0.75rem 0.75rem 1rem !important;
+  box-shadow: 0 2px 12px rgba(47, 111, 99, 0.08);
+}
+
+/* =========================================================
+   PROFILE IMAGE
+========================================================= */
+
+.sidebar-logo {
+  display: block !important;
+  width: 100% !important;
+  height: auto !important;
+  max-width: 100% !important;
+  border-radius: 8px !important;
+  object-fit: cover;
+  margin: 0 0 0.85rem 0 !important;
+}
+
+/* =========================================================
+   NAME
+========================================================= */
+
+.sidebar-tools-main::before {
+  content: "Jorn Knuit";
+  display: block;
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #23412E;
+  text-align: center;
+  margin-bottom: 0.4rem;
+}
+
+/* =========================================================
+   SOCIAL ICONS
+========================================================= */
+
+.sidebar-tools-main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2px;
+  margin-bottom: 0 !important;
+}
+
+.quarto-navigation-tool {
+  color: #2F6F63 !important;
+  font-size: 1rem;
+  padding: 4px 5px !important;
+  opacity: 0.85;
+  transition: opacity 0.15s;
+}
+
+.quarto-navigation-tool:hover {
+  opacity: 1;
+  color: #1F4D45 !important;
+}
+
+/* =========================================================
+   SUBTITLE
+========================================================= */
+
+.sidebar-tools-main::after {
+  content: "PhD candidate in Biodiversity Responses to Regenerative Agriculture · Copernicus Institute, Utrecht University";
+  display: block;
+  width: 100%;
+  font-size: 0.75rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  color: #5C6F69;
+  text-align: center;
+  margin-top: 0.6rem;
+  line-height: 1.45;
+}
+
+/* =========================================================
+   HIGHLIGHTS
+========================================================= */
+
+.highlight {
+  font-weight: bold;
+  color: #2F6F63;
+}
+
+/* =========================================================
+   SECTION DIVIDER (softer, not aggressive red)
+========================================================= */
+
+.section-divider {
+  width: 100%;
+  height: 4px;
+  background-color: #2F6F63;
+  border: none;
+  margin: 3rem 0;
+  border-radius: 3px;
+  opacity: 0.6;
+}

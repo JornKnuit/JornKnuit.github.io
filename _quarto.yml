@@ -11,22 +11,40 @@ website:
         text: CV
       - href: research.qmd
         text: Research
-      - href: blog.qmd
+      - href: blog/
         text: Blog
       - href: contact.qmd
         text: Contact
       
-      
+  sidebar:
+    logo: "profilepic.jpeg"
+    pinned: true
+    align: center
+    style: floating
+    tools:
+      - icon: envelope
+        href: "mailto:j.j.h.knuit@uu.nl"
+      - icon: github
+        href: "https://github.com/JornKnuit"
+      - icon: globe
+        href: "https://scholar.google.com/citations?user=ZI-OOf0AAAAJ&hl=nl"
+      - icon: linkedin
+        href: "hhttps://www.linkedin.com/in/jorn-knuit-b4246b172/"
+      - icon: house-door-fill
+        href: "https://www.uu.nl/medewerkers/JJHKnuit"
+      - icon: person-badge
+        href: "https://orcid.org/0009-0004-2350-9237"      
 
 format:
   html:
     theme:
-      - sandstone
-      - brand
+      - custom-theme.scss
     css: styles.css
     toc: true
-    icons: true
-    page-layout: full
+    toc-depth: 3
+    smooth-scroll: true
+    link-external-newwindow: true
+    number-sections: false
 
 
 

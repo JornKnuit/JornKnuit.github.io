@@ -31,5 +31,11 @@
   },
   "research.qmd": {
     "research.html": "ff9e4411"
+  },
+  "blog/fieldwork_start_2026.qmd": {
+    "fieldwork_start_2026.html": "2a841e19"
+  },
+  "blog/index.qmd": {
+    "index.html": "2f170306"
   }
 }
