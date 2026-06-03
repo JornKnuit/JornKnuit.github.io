@@ -66,3 +66,27 @@ a {
 a:hover {
   color: #004F56;
 }
+
+.logo-column {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: auto;
+}
+
+.logo-column img {
+  max-width: 120px;
+  height: auto;
+  opacity: 0.9;
+  transition: opacity 0.2s ease;
+}
+
+.logo-column img:hover {
+  opacity: 1;
+}
+
+.columns {
+  column-gap: 3rem;
+}
