@@ -37,5 +37,8 @@
   },
   "blog/index.qmd": {
     "index.html": "2f170306"
+  },
+  "blog/posts/fieldwork_start_2026.qmd": {
+    "fieldwork_start_2026.html": "60d023dd"
   }
 }

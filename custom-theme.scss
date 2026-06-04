@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 
 $font-family-sans-serif: 'Inter', sans-serif;
-$font-family-serif: 'Playfair Display', serif;
+$font-family-serif: 'Inter', sans-serif;
 
 /* =========================================================
    NEW THEME PALETTE (sandstone + mint academic)
@@ -46,7 +46,7 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   color: #23412E; /* deep academic green */
-  font-family: 'Playfair Display', serif;
+  font-family: 'Inter', sans-serif;
 }
 
 /* =========================================================
@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-tools-main::before {
   content: "Jorn Knuit";
   display: block;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Inter', sans-serif;
   font-weight: 700;
   font-size: 1.1rem;
   color: #23412E;

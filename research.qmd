@@ -1,0 +1,25 @@
+---
+title: "Research"
+sidebar: false
+---
+
+## Publications
+
+::::: {.pub-list}
+
+:::: {.pub-item}
+:::: {.pub-main}
+::: {.pub-title}
+Landscape-scale forest cover shapes the complexity of seed-dispersal networks in regenerating forest fragments. 
+:::
+::: {.pub-authors}
+Timmers, R., Côrtes, M. C., van Kuijk, M., Canassa, G. G., Staneke, R., Rosin, F. S. O., van Hooff, M. P. J., Knuit, J. J. H., Pires, M. M., & Soons, M. B. <br>
+_Biological conservation, 309_, 1-11. Article 1113122. [DOI](https://doi.org/10.1016/j.biocon.2025.111312)
+:::
+::::
+:::{.pub-year}
+2025
+:::
+::::
+
+:::::
