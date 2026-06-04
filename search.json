@@ -1,24 +1,59 @@
 [
   {
+    "objectID": "blog/posts/intro.html",
+    "href": "blog/posts/intro.html",
+    "title": "Why regenerative agriculture? Why biodiversity? Why a PhD?",
+    "section": "",
+    "text": "As a small kid I spent hours and hours in the garden of our neighbours. To me, it was a semi-natural paradise where I could find all the tiny bugs my heart desired. From woodlice to butterflies, and from bees to lady bugs. This fascination with the natural world never really disappeared, although it faded to the background for some years."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Start of 2026 field season!\n\n\n\nFieldwork\n\n\n\n\n\n\n\n\n\nJun 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhy regenerative agriculture? Why biodiversity? Why a PhD?\n\n\n\nPersonal & PhD Life\n\n\n\n\n\n\n\n\n\nJun 3, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "2024 present\n\n\n\n\nUtrecht University, Copernicus Institute of Sustainable Development\n\nAs part of the ReGeNL project, I study the effects of regenerative agriculture on aboveground biodiversity. The aim is to develop a monitoring scheme combining traditional and state-of-the-art monitoring techniques suitable for large-scale monitoring and informing predictive models.\n\n\n\n\n2018\n2025\n\n\n\n\nMuziekvereniging Semper Crescendo\n\nTeaching the clarinet and saxophone students of the local music association Semper Crescendo and preparing them for their music exams.\nDeveloped own teaching methods, and helped with motivating kids and adults to start making music (again)."
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "",
+    "text": "2024 present\n\n\n\n\nUtrecht University, Copernicus Institute of Sustainable Development\n\nAs part of the ReGeNL project, I study the effects of regenerative agriculture on aboveground biodiversity. The aim is to develop a monitoring scheme combining traditional and state-of-the-art monitoring techniques suitable for large-scale monitoring and informing predictive models.\n\n\n\n\n2018\n2025\n\n\n\n\nMuziekvereniging Semper Crescendo\n\nTeaching the clarinet and saxophone students of the local music association Semper Crescendo and preparing them for their music exams.\nDeveloped own teaching methods, and helped with motivating kids and adults to start making music (again)."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\n\n\n2022 2024\n\n\nMaster’s Degree\n\nUtrecht University\n\nTrack: Ecology & Natural Resource Management\nMajor Research Project: The Effects of Reforestation and Fragmentation on Plant-Frugivore Networks in São Paulo, Brazil - A Modelling Approach\nComplex Systems Profile: - Courses: Introduction to Complex Systems, Environmental Systems Analysis - Project: The Effect of Reforestation on Future Tipping Events in the Amazon Basin\nWriting Assignment: Habitat Configuration in Restoration Ecology: A framework to optimize configuration for restoration outcomes\n\n\n\n\n2019\n2022\n\n\nBachelor’s Degree\n\nUtrecht University\n\nActivities and societies: Honoursprogramme (Honours Course Committee, Book “Bedrog in de Biologie”)\nUtrechtse Biologen Vereniging (Parent’s Day Committee, Music Committee)\nFocus on: Ecology & Nature Conservation, Behavioural Biology, Evolutionary Biology, and Theoretical Biology\nBSc Thesis: Plant-Frugivore Networks in a Fragmented Landscape\nBSc Research Internship: The Effects of Habitat Fragmentation and Forest Restoration on Plant Diversity in São Paulo State, Brazil"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming\n\nR\nPython\nGIS\nQuarto\nGit\n\n\n\nLanguages\n\nDutch (native)\nEnglish (fluent)"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Landscape-scale forest cover shapes the complexity of seed-dispersal networks in regenerating forest fragments.\n\n\nTimmers, R., Côrtes, M. C., van Kuijk, M., Canassa, G. G., Staneke, R., Rosin, F. S. O., van Hooff, M. P. J., Knuit, J. J. H., Pires, M. M., & Soons, M. B.  Biological conservation, 309, 1-11. Article 1113122. DOI\n\n\n\n2025"
+    "text": "Description of research vision"
   },
   {
     "objectID": "research.html#publications",
     "href": "research.html#publications",
     "title": "Research",
-    "section": "",
-    "text": "Landscape-scale forest cover shapes the complexity of seed-dispersal networks in regenerating forest fragments.\n\n\nTimmers, R., Côrtes, M. C., van Kuijk, M., Canassa, G. G., Staneke, R., Rosin, F. S. O., van Hooff, M. P. J., Knuit, J. J. H., Pires, M. M., & Soons, M. B.  Biological conservation, 309, 1-11. Article 1113122. DOI\n\n\n\n2025"
-  },
-  {
-    "objectID": "JornKnuit.github.io/index.html",
-    "href": "JornKnuit.github.io/index.html",
-    "title": "Jorn Knuit",
-    "section": "",
-    "text": "Jorn Knuit\n\n\n  \n  \n  \n  \n  \n 🦋 \n\n\n j.j.h.knuit@uu.nl\n\nPhD Candidate in Biodiversity Responses to Regenerative Agriculture\nCopernicus Institute, Utrecht University\n\n\nAbout me\n\nI’m a PhD candidate based in Utrecht, at the Copernicus Institute of Sustainable Development. Here, I work on quantifying and understanding responses of aboveground biodiversity to regenerative agriculture. My PhD project is part of ReGeNL, a transdisciplinary programme aiming to aid in the transition towards a futureproof agricultural sector in the Netherlands. I am supervised by Prof. dr. Merel Soons, Dr. Jerry van Dijk, and Dr. Sietze Norder, and work in close collaboration with a large team of researchers from Dutch universities and research institutes."
+    "section": "Publications",
+    "text": "Publications\n\n\n\n\nLandscape-scale forest cover shapes the complexity of seed-dispersal networks in regenerating forest fragments.\n\n\nTimmers, R., Côrtes, M. C., van Kuijk, M., Canassa, G. G., Staneke, R., Rosin, F. S. O., van Hooff, M. P. J., Knuit, J. J. H., Pires, M. M., & Soons, M. B.  Biological conservation, 309, 1-11. Article 1113122. DOI\n\n\n\n2025"
   },
   {
     "objectID": "index.html#about-me",
@@ -33,33 +68,5 @@
     "title": "Jorn Knuit",
     "section": "Latest posts",
     "text": "Latest posts"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Start of 2026 field season!\n\n\n\n\n\n\n\n\nJun 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhy regenerative agriculture? Why biodiversity? Why a PhD?\n\n\n\n\n\n\n\n\nJun 3, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/posts/intro.html",
-    "href": "blog/posts/intro.html",
-    "title": "Why regenerative agriculture? Why biodiversity? Why a PhD?",
-    "section": "",
-    "text": "As a small kid I spent hours and hours in the garden of our neighbours. To me, it was a semi-natural paradise where I could find all the tiny bugs my heart desired. From woodlice to butterflies, and from bees to lady bugs. This fascination with the natural world never really disappeared, although it faded to the background for some years."
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "JornKnuit.github.io/cv.html",
-    "href": "JornKnuit.github.io/cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "About this site"
   }
 ]
