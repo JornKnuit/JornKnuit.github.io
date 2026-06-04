@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "blog/posts/intro.html",
-    "href": "blog/posts/intro.html",
-    "title": "Why regenerative agriculture? Why biodiversity? Why a PhD?",
-    "section": "",
-    "text": "As a small kid I spent hours and hours in the garden of our neighbours. To me, it was a semi-natural paradise where I could find all the tiny bugs my heart desired. From woodlice to butterflies, and from bees to lady bugs. This fascination with the natural world never really disappeared, although it faded to the background for some years."
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Start of 2026 field season!\n\n\n\n\n\n\n\n\nJun 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhy regenerative agriculture? Why biodiversity? Why a PhD?\n\n\n\n\n\n\n\n\nJun 3, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -35,6 +14,13 @@
     "text": "Landscape-scale forest cover shapes the complexity of seed-dispersal networks in regenerating forest fragments.\n\n\nTimmers, R., Côrtes, M. C., van Kuijk, M., Canassa, G. G., Staneke, R., Rosin, F. S. O., van Hooff, M. P. J., Knuit, J. J. H., Pires, M. M., & Soons, M. B.  Biological conservation, 309, 1-11. Article 1113122. DOI\n\n\n\n2025"
   },
   {
+    "objectID": "JornKnuit.github.io/index.html",
+    "href": "JornKnuit.github.io/index.html",
+    "title": "Jorn Knuit",
+    "section": "",
+    "text": "Jorn Knuit\n\n\n  \n  \n  \n  \n  \n 🦋 \n\n\n j.j.h.knuit@uu.nl\n\nPhD Candidate in Biodiversity Responses to Regenerative Agriculture\nCopernicus Institute, Utrecht University\n\n\nAbout me\n\nI’m a PhD candidate based in Utrecht, at the Copernicus Institute of Sustainable Development. Here, I work on quantifying and understanding responses of aboveground biodiversity to regenerative agriculture. My PhD project is part of ReGeNL, a transdisciplinary programme aiming to aid in the transition towards a futureproof agricultural sector in the Netherlands. I am supervised by Prof. dr. Merel Soons, Dr. Jerry van Dijk, and Dr. Sietze Norder, and work in close collaboration with a large team of researchers from Dutch universities and research institutes."
+  },
+  {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Jorn Knuit",
@@ -47,5 +33,33 @@
     "title": "Jorn Knuit",
     "section": "Latest posts",
     "text": "Latest posts"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Start of 2026 field season!\n\n\n\n\n\n\n\n\nJun 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhy regenerative agriculture? Why biodiversity? Why a PhD?\n\n\n\n\n\n\n\n\nJun 3, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/intro.html",
+    "href": "blog/posts/intro.html",
+    "title": "Why regenerative agriculture? Why biodiversity? Why a PhD?",
+    "section": "",
+    "text": "As a small kid I spent hours and hours in the garden of our neighbours. To me, it was a semi-natural paradise where I could find all the tiny bugs my heart desired. From woodlice to butterflies, and from bees to lady bugs. This fascination with the natural world never really disappeared, although it faded to the background for some years."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "JornKnuit.github.io/cv.html",
+    "href": "JornKnuit.github.io/cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "About this site"
   }
 ]
