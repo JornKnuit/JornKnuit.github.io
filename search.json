@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Jorn Knuit",
-    "section": "About me",
-    "text": "About me\nI’m a PhD candidate based in Utrecht, at the Copernicus Institute of Sustainable Development. Here, I work on quantifying and understanding responses of aboveground biodiversity to regenerative agriculture. My PhD project is part of ReGeNL, a transdisciplinary programme aiming to aid in the transition towards a futureproof agricultural sector in the Netherlands.\nI am supervised by Prof. dr. Merel Soons, Dr. Jerry van Dijk, and Dr. Sietze Norder, and work in close collaboration with a large team of researchers from Dutch universities and research institutes."
-  },
-  {
-    "objectID": "index.html#latest-posts",
-    "href": "index.html#latest-posts",
-    "title": "Jorn Knuit",
-    "section": "Latest posts",
-    "text": "Latest posts"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -28,11 +14,25 @@
     "text": "Landscape-scale forest cover shapes the complexity of seed-dispersal networks in regenerating forest fragments.\n\n\nTimmers, R., Côrtes, M. C., van Kuijk, M., Canassa, G. G., Staneke, R., Rosin, F. S. O., van Hooff, M. P. J., Knuit, J. J. H., Pires, M. M., & Soons, M. B.  Biological conservation, 309, 1-11. Article 1113122. DOI\n\n\n\n2025"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "JornKnuit.github.io/index.html",
+    "href": "JornKnuit.github.io/index.html",
+    "title": "Jorn Knuit",
     "section": "",
-    "text": "About this site"
+    "text": "Jorn Knuit\n\n\n  \n  \n  \n  \n  \n 🦋 \n\n\n j.j.h.knuit@uu.nl\n\nPhD Candidate in Biodiversity Responses to Regenerative Agriculture\nCopernicus Institute, Utrecht University\n\n\nAbout me\n\nI’m a PhD candidate based in Utrecht, at the Copernicus Institute of Sustainable Development. Here, I work on quantifying and understanding responses of aboveground biodiversity to regenerative agriculture. My PhD project is part of ReGeNL, a transdisciplinary programme aiming to aid in the transition towards a futureproof agricultural sector in the Netherlands. I am supervised by Prof. dr. Merel Soons, Dr. Jerry van Dijk, and Dr. Sietze Norder, and work in close collaboration with a large team of researchers from Dutch universities and research institutes."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Jorn Knuit",
+    "section": "About me",
+    "text": "About me\nI’m a PhD candidate based in Utrecht, at the Copernicus Institute of Sustainable Development. Here, I work on quantifying and understanding responses of aboveground biodiversity to regenerative agriculture. My PhD project is part of ReGeNL, a transdisciplinary programme aiming to aid in the transition towards a futureproof agricultural sector in the Netherlands.\nI am supervised by Prof. dr. Merel Soons, Dr. Jerry van Dijk, and Dr. Sietze Norder, and work in close collaboration with a large team of researchers from Dutch universities and research institutes."
+  },
+  {
+    "objectID": "index.html#latest-posts",
+    "href": "index.html#latest-posts",
+    "title": "Jorn Knuit",
+    "section": "Latest posts",
+    "text": "Latest posts"
   },
   {
     "objectID": "blog/index.html",
@@ -40,5 +40,19 @@
     "title": "Blog",
     "section": "",
     "text": "Start of 2026 field season!\n\n\n\n\n\n\n\n\nJun 3, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "JornKnuit.github.io/cv.html",
+    "href": "JornKnuit.github.io/cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "About this site"
   }
 ]
