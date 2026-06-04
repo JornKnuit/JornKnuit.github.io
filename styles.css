@@ -173,54 +173,54 @@ h2 + .pub-list {
 
 /* Publications list */
 .pub-list {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  margin-bottom: 2rem;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 10px !important;
+  margin-bottom: 2rem !important;
 }
 
 .pub-item {
-  background: #fffaf3;
-  border: 1px solid #f0e8d8;
-  border-radius: 8px;
-  padding: 0.85rem 1.1rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  gap: 1rem;
+  background: #fffaf3 !important;
+  border: 1px solid #f0e8d8 !important;
+  border-radius: 8px !important;
+  padding: 0.85rem 1.1rem !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: flex-start !important;
+  gap: 1rem !important;
 }
 
 .pub-main {
-  flex: 1;
+  flex: 1 !important;
 }
 
 .pub-title {
-  font-size: 0.88rem;
-  font-weight: 600;
-  color: #222;
-  line-height: 1.45;
-  margin-bottom: 0.2rem;
+  font-size: 0.88rem !important;
+  font-weight: 600 !important;
+  color: #222 !important;
+  line-height: 1.45 !important;
+  margin-bottom: 0.2rem !important;
 }
 
 .pub-authors {
-  font-size: 0.78rem;
-  color: #777;
-  margin-bottom: 0.3rem;
+  font-size: 0.78rem !important;
+  color: #777 !important;
+  margin-bottom: 0.3rem !important;
 }
 
 .pub-explainer {
-  font-size: 0.8rem;
-  color: #c74310;
-  font-style: italic;
-  line-height: 1.5;
+  font-size: 0.8rem !important;
+  color: #c74310 !important;
+  font-style: italic !important;
+  line-height: 1.5 !important;
 }
 
 .pub-year {
-  font-size: 0.75rem;
-  font-weight: 600;
-  color: #aaa;
-  white-space: nowrap;
-  padding-top: 2px;
+  font-size: 0.75rem !important;
+  font-weight: 600 !important;
+  color: #aaa !important;
+  white-space: nowrap !important;
+  padding-top: 2px !important;
 }
 
 /* Aside reads */
@@ -235,6 +235,21 @@ h2 + .pub-list {
 
 .aside-reads a {
   color: #c74310;
+}
+
+.pub-links {
+  margin-top: 0.35rem;
+  font-size: 0.8rem;
+}
+
+.pub-links a {
+  color: #c74310;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
 }
 
 /* ============================================================
