@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Jorn Knuit",
-    "section": "About me",
-    "text": "About me\nI’m a PhD candidate based in Utrecht, at the Copernicus Institute of Sustainable Development. Here, I work on quantifying and understanding responses of aboveground biodiversity to regenerative agriculture. My PhD project is part of ReGeNL, a transdisciplinary programme aiming to aid in the transition towards a futureproof agricultural sector in the Netherlands. I am supervised by Prof. dr. Merel Soons, Dr. Jerry van Dijk, and Dr. Sietze Norder, and work in close collaboration with a large team of researchers from Dutch universities and research institutes. You can find more information about my ongoing research in Research and my Blog.\nI have a background in ecology, holding a BSc in Biology and an MSc in Environmental Biology from Utrecht University. During my studies I specialised in Ecology and Natural Resource Management and developed an interest in ecological modeling, completing projects on seed dispersal interactions in the Atlantic Forest and forest-savanna tipping in the Amazon Basin.\nOutside of science, I spend a lot of time on music. Besides playing saxophone, clarinet, and (bass) guitar I enjoy writing and arranging music for various ensembles, ranging from saxophone quartets to full orchestral arrangements."
+    "objectID": "blog/posts/intro.html",
+    "href": "blog/posts/intro.html",
+    "title": "Why regenerative agriculture? Why biodiversity? Why a PhD?",
+    "section": "",
+    "text": "As a small kid I spent hours and hours in the garden of our neighbours. To me, it was a semi-natural paradise where I could find all the tiny bugs my heart desired. From woodlice to butterflies, and from bees to lady bugs. This fascination with the natural world never really disappeared, although it faded to the background for some years."
   },
   {
-    "objectID": "index.html#latest-posts",
-    "href": "index.html#latest-posts",
-    "title": "Jorn Knuit",
-    "section": "Latest posts",
-    "text": "Latest posts"
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Start of 2026 field season!\n\n\n\n\n\n\n\n\nJun 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhy regenerative agriculture? Why biodiversity? Why a PhD?\n\n\n\n\n\n\n\n\nJun 3, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "research.html",
@@ -28,17 +35,17 @@
     "text": "Landscape-scale forest cover shapes the complexity of seed-dispersal networks in regenerating forest fragments.\n\n\nTimmers, R., Côrtes, M. C., van Kuijk, M., Canassa, G. G., Staneke, R., Rosin, F. S. O., van Hooff, M. P. J., Knuit, J. J. H., Pires, M. M., & Soons, M. B.  Biological conservation, 309, 1-11. Article 1113122. DOI\n\n\n\n2025"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "About this site"
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Jorn Knuit",
+    "section": "About me",
+    "text": "About me\nI’m a PhD candidate based in Utrecht, at the Copernicus Institute of Sustainable Development. Here, I work on quantifying and understanding responses of aboveground biodiversity to regenerative agriculture. My PhD project is part of ReGeNL, a transdisciplinary programme aiming to aid in the transition towards a futureproof agricultural sector in the Netherlands. I am supervised by Prof. dr. Merel Soons, Dr. Jerry van Dijk, and Dr. Sietze Norder, and work in close collaboration with a large team of researchers from Dutch universities and research institutes. You can find more information about my ongoing research in Research and my Blog.\nI have a background in ecology, holding a BSc in Biology and an MSc in Environmental Biology from Utrecht University. During my studies I specialised in Ecology and Natural Resource Management and developed an interest in ecological modeling, completing projects on seed dispersal interactions in the Atlantic Forest and forest-savanna tipping in the Amazon Basin.\nOutside of science, I spend a lot of time on music. Besides playing saxophone, clarinet, and (bass) guitar I enjoy writing and arranging music for various ensembles, ranging from saxophone quartets to full orchestral arrangements."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Start of 2026 field season!\n\n\n\n\n\n\n\n\nJun 3, 2026\n\n\n\n\n\nNo matching items"
+    "objectID": "index.html#latest-posts",
+    "href": "index.html#latest-posts",
+    "title": "Jorn Knuit",
+    "section": "Latest posts",
+    "text": "Latest posts"
   }
 ]
