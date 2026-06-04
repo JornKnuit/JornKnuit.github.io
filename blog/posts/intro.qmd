@@ -1,6 +1,9 @@
 ---
 title: "Why regenerative agriculture? Why biodiversity? Why a PhD?"
 date: 2026-06-03
+categories:
+    - Personal & PhD Life
+sidebar: false
 ---
 
 As a small kid I spent hours and hours in the garden of our neighbours. To me, it was a semi-natural paradise where I could find all the tiny bugs my heart desired. From woodlice to butterflies, and from bees to lady bugs. This fascination with the natural world never really disappeared, although it faded to the background for some years. 

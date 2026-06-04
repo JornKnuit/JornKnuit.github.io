@@ -1,4 +1,6 @@
 ---
 title: "Start of 2026 field season!"
 date: 2026-06-03
+categories:
+    - Fieldwork
 ---

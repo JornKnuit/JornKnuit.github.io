@@ -1,5 +1,139 @@
 ---
 title: "CV"
+sidebar: false
 ---
 
-About this site
+## Experience
+
+::: {.news-feed}
+
+::: {.news-item}
+
+::: {news.date}
+**2024**
+present
+:::
+
+::: {.news-content}
+
+### PhD Candidate - Biodiversity Responses to Regenerative Agriculture
+
+<div class="cv-institution">
+Utrecht University, Copernicus Institute of Sustainable Development
+</div>
+
+As part of the ReGeNL project, I study the effects of regenerative agriculture on aboveground biodiversity. The aim is to develop a monitoring scheme combining traditional and state-of-the-art monitoring techniques suitable for large-scale monitoring and informing predictive models.
+
+:::
+
+:::
+
+::: {.news-item}
+
+::: {.news-date}
+**2018**  
+2025
+:::
+
+::: {.news-content}
+
+### Music Teacher
+
+<div class="cv-institution">
+Muziekvereniging Semper Crescendo
+</div>
+
+Teaching the clarinet and saxophone students of the local music association Semper Crescendo and preparing them for their music exams.
+
+Developed own teaching methods, and helped with motivating kids and adults to start making music (again).
+
+:::
+
+:::
+
+:::
+
+
+
+
+## Education
+
+::: {.news-feed}
+
+::: {.news-item}
+
+::: {news.date}
+**2022**
+2024
+:::
+
+::: {.news-content}
+
+### Master's Degree
+
+<div class="cv-institution">
+Utrecht University
+</div>
+
+Track: Ecology & Natural Resource Management
+
+Major Research Project: 
+The Effects of Reforestation and Fragmentation on Plant-Frugivore Networks in São Paulo, Brazil - A Modelling Approach
+
+Complex Systems Profile:
+- Courses: Introduction to Complex Systems, Environmental Systems Analysis
+- Project: The Effect of Reforestation on Future Tipping Events in the Amazon Basin
+
+Writing Assignment:
+Habitat Configuration in Restoration Ecology: A framework to optimize configuration for restoration outcomes
+
+:::
+
+:::
+
+::: {.news-item}
+
+::: {.news-date}
+**2019**  
+2022
+:::
+
+::: {.news-content}
+
+### Bachelor's Degree
+
+<div class="cv-institution">
+Utrecht University
+</div>
+
+Activities and societies: Honoursprogramme (Honours Course Committee, Book "Bedrog in de Biologie")
+
+Utrechtse Biologen Vereniging (Parent's Day Committee, Music Committee)
+
+Focus on: Ecology & Nature Conservation, Behavioural Biology, Evolutionary Biology, and Theoretical Biology
+
+BSc Thesis: Plant-Frugivore Networks in a Fragmented Landscape
+
+BSc Research Internship: The Effects of Habitat Fragmentation and Forest Restoration on Plant Diversity in São Paulo State, Brazil
+
+:::
+
+:::
+
+:::
+
+
+## Skills
+
+### Programming
+
+- R
+- Python
+- GIS
+- Quarto
+- Git
+
+### Languages
+
+- Dutch (native)
+- English (fluent)

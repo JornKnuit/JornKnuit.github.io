@@ -1,7 +1,10 @@
 ---
 title: "Blog"
+sidebar: false
 listing:
   contents: .
   type: default
   sort: "date desc"
+  categories: true
+  filter-ui: true
 ---
