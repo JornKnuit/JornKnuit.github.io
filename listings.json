@@ -1,13 +1,13 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/blog/index.html",
     "items": [
       "/blog/posts/fieldwork_start_2026.html",
       "/blog/posts/intro.html"
     ]
   },
   {
-    "listing": "/blog/index.html",
+    "listing": "/index.html",
     "items": [
       "/blog/posts/fieldwork_start_2026.html",
       "/blog/posts/intro.html"
