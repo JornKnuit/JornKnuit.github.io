@@ -56,13 +56,6 @@
     "text": "2024 present\n\n\n\n\nUtrecht University, Copernicus Institute of Sustainable Development\n\nAs part of the ReGeNL project, I study the effects of regenerative agriculture on aboveground biodiversity. The aim is to develop a monitoring scheme combining traditional and state-of-the-art monitoring techniques suitable for large-scale monitoring and informing predictive models.\n\n\n\n\n2018\n2025\n\n\n\n\nMuziekvereniging Semper Crescendo\n\nTeaching the clarinet and saxophone students of the local music association Semper Crescendo and preparing them for their music exams.\nDeveloped own teaching methods, and helped with motivating kids and adults to start making music (again)."
   },
   {
-    "objectID": "JornKnuit.github.io/cv.html",
-    "href": "JornKnuit.github.io/cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "cv.html#experience",
     "href": "cv.html#experience",
     "title": "CV",
@@ -70,18 +63,11 @@
     "text": "2024 present\n\n\n\n\nUtrecht University, Copernicus Institute of Sustainable Development\n\nAs part of the ReGeNL project, I study the effects of regenerative agriculture on aboveground biodiversity. The aim is to develop a monitoring scheme combining traditional and state-of-the-art monitoring techniques suitable for large-scale monitoring and informing predictive models.\n\n\n\n\n2018\n2025\n\n\n\n\nMuziekvereniging Semper Crescendo\n\nTeaching the clarinet and saxophone students of the local music association Semper Crescendo and preparing them for their music exams.\nDeveloped own teaching methods, and helped with motivating kids and adults to start making music (again)."
   },
   {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
     "title": "CV",
-    "section": "Publications",
-    "text": "Publications\n\n\nKnuit, J.J.H., Author B., Author C. (in preparation)\nTitle of manuscript.\nTarget journal.\nDOI: coming soon."
-  },
-  {
-    "objectID": "cv.html#teaching",
-    "href": "cv.html#teaching",
-    "title": "CV",
-    "section": "Teaching",
-    "text": "Teaching\n\n\n\n2025\n\n\nTeaching\n\nTeaching Assistant\n\nUtrecht University\n\nAssisted in ecology and biodiversity-related courses."
+    "section": "Education",
+    "text": "Education\n\n\n\n2022 2024\n\n\nMaster’s Degree\n\nUtrecht University\n\nTrack: Ecology & Natural Resource Management\nMajor Research Project: The Effects of Reforestation and Fragmentation on Plant-Frugivore Networks in São Paulo, Brazil - A Modelling Approach\nComplex Systems Profile: - Courses: Introduction to Complex Systems, Environmental Systems Analysis - Project: The Effect of Reforestation on Future Tipping Events in the Amazon Basin\nWriting Assignment: Habitat Configuration in Restoration Ecology: A framework to optimize configuration for restoration outcomes\n\n\n\n\n2019\n2022\n\n\nBachelor’s Degree\n\nUtrecht University\n\nActivities and societies: Honoursprogramme (Honours Course Committee, Book “Bedrog in de Biologie”)\nUtrechtse Biologen Vereniging (Parent’s Day Committee, Music Committee)\nFocus on: Ecology & Nature Conservation, Behavioural Biology, Evolutionary Biology, and Theoretical Biology\nBSc Thesis: Plant-Frugivore Networks in a Fragmented Landscape\nBSc Research Internship: The Effects of Habitat Fragmentation and Forest Restoration on Plant Diversity in São Paulo State, Brazil"
   },
   {
     "objectID": "cv.html#skills",
@@ -91,10 +77,10 @@
     "text": "Skills\n\nProgramming\n\nR\nPython\nGIS\nQuarto\nGit\n\n\n\nLanguages\n\nDutch (native)\nEnglish (fluent)"
   },
   {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
+    "objectID": "JornKnuit.github.io/cv.html",
+    "href": "JornKnuit.github.io/cv.html",
     "title": "CV",
-    "section": "Education",
-    "text": "Education\n\n\n\n2022 2024\n\n\nMaster’s Degree\n\nUtrecht University\n\nTrack: Ecology & Natural Resource Management\nMajor Research Project: The Effects of Reforestation and Fragmentation on Plant-Frugivore Networks in São Paulo, Brazil - A Modelling Approach\nComplex Systems Profile: - Courses: Introduction to Complex Systems, Environmental Systems Analysis - Project: The Effect of Reforestation on Future Tipping Events in the Amazon Basin\nWriting Assignment: Habitat Configuration in Restoration Ecology: A framework to optimize configuration for restoration outcomes\n\n\n\n\n2019\n2022\n\n\nBachelor’s Degree\n\nUtrecht University\n\nActivities and societies: Honoursprogramme (Honours Course Committee, Book “Bedrog in de Biologie”)\nUtrechtse Biologen Vereniging (Parent’s Day Committee, Music Committee)\nFocus on: Ecology & Nature Conservation, Behavioural Biology, Evolutionary Biology, and Theoretical Biology\nBSc Thesis: Plant-Frugivore Networks in a Fragmented Landscape\nBSc Research Internship: The Effects of Habitat Fragmentation and Forest Restoration on Plant Diversity in São Paulo State, Brazil"
+    "section": "",
+    "text": "About this site"
   }
 ]
