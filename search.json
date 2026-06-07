@@ -1,38 +1,10 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "blog/posts/intro.html",
+    "href": "blog/posts/intro.html",
+    "title": "Why regenerative agriculture? Why biodiversity? Why a PhD?",
     "section": "",
-    "text": "Description of research vision"
-  },
-  {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\n\n\n\n\nLandscape-scale forest cover shapes the complexity of seed-dispersal networks in regenerating forest fragments.\n\n\nTimmers, R., Côrtes, M. C., van Kuijk, M., Canassa, G. G., Staneke, R., Rosin, F. S. O., van Hooff, M. P. J., Knuit, J. J. H., Pires, M. M., & Soons, M. B.  Biological conservation, 309, 1-11. Article 1113122. DOI\n\n\n\n2025"
-  },
-  {
-    "objectID": "JornKnuit.github.io/index.html",
-    "href": "JornKnuit.github.io/index.html",
-    "title": "Jorn Knuit",
-    "section": "",
-    "text": "Jorn Knuit\n\n\n  \n  \n  \n  \n  \n 🦋 \n\n\n j.j.h.knuit@uu.nl\n\nPhD Candidate in Biodiversity Responses to Regenerative Agriculture\nCopernicus Institute, Utrecht University\n\n\nAbout me\n\nI’m a PhD candidate based in Utrecht, at the Copernicus Institute of Sustainable Development. Here, I work on quantifying and understanding responses of aboveground biodiversity to regenerative agriculture. My PhD project is part of ReGeNL, a transdisciplinary programme aiming to aid in the transition towards a futureproof agricultural sector in the Netherlands. I am supervised by Prof. dr. Merel Soons, Dr. Jerry van Dijk, and Dr. Sietze Norder, and work in close collaboration with a large team of researchers from Dutch universities and research institutes."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Jorn Knuit",
-    "section": "About me",
-    "text": "About me\nI’m a PhD candidate based in Utrecht, at the Copernicus Institute of Sustainable Development. Here, I work on quantifying and understanding responses of aboveground biodiversity to regenerative agriculture. My PhD project is part of ReGeNL, a transdisciplinary programme aiming to aid in the transition towards a futureproof agricultural sector in the Netherlands. I am supervised by Prof. dr. Merel Soons, Dr. Jerry van Dijk, and Dr. Sietze Norder, and work in close collaboration with a large team of researchers from Dutch universities and research institutes. You can find more information about my ongoing research in Research and my Blog.\nI have a background in ecology, holding a BSc in Biology and an MSc in Environmental Biology from Utrecht University. During my studies I specialised in Ecology and Natural Resource Management and developed an interest in ecological modeling, completing projects on seed dispersal interactions in the Atlantic Forest and forest-savanna tipping in the Amazon Basin.\nOutside of science, I spend a lot of time on music. Besides playing saxophone, clarinet, and (bass) guitar I enjoy writing and arranging music for various ensembles, ranging from saxophone quartets to full orchestral arrangements."
-  },
-  {
-    "objectID": "index.html#latest-posts",
-    "href": "index.html#latest-posts",
-    "title": "Jorn Knuit",
-    "section": "Latest posts",
-    "text": "Latest posts"
+    "text": "As a small kid I spent hours and hours in the garden of our neighbours. To me, it was a semi-natural paradise where I could find all the tiny bugs my heart desired. From woodlice to butterflies, and from bees to lady bugs. This fascination with the natural world eventually led me to Utrecht University, where I obtained my BSc in biology and MSc in environmental biology. During my studies, the idea of pursueing a PhD had been there almost from the start. I realised how much I enjoy deep-diving into a topic, which is what I get to do now on a daily basis. What I did not expect was that the topic of my research would be linked to agriculture. Looking back, may actually not be a very surprising turn of events. I grew up in a small village in the clay polders of West-Brabant, and worked at a farm for nearly 10 years. The combination of my research interests and hands-on experience in the agricultural sector eventually led to my decision to pursue a PhD focused on biodiversity in regenerative agricultural systems.\n\n\n\n\n\nWhen I get asked - by farmers, colleagues, or friends - what regenerative agriculture is, I still struggle to answer this question. Even after visiting over 25 farms working towards more regenerative management. For me, being regenerative is about the outcomes that are achieved, not about the practices a farmers applies. Even though I struggle to define it, I see that regenerative agriculture is a promising way forward. That is why I am motivated to hopefully show that regenerative agriculture can contribute to conserving and restoring biodiversity, while channeling my inner child once again catching bugs. Not in my neighbours’ garden, but in agricultural fields which give hope for a better future for farmers and nature."
   },
   {
     "objectID": "blog/index.html",
@@ -40,13 +12,6 @@
     "title": "Blog",
     "section": "",
     "text": "Start of 2026 field season!\n\n\n\nFieldwork\n\n\n\n\n\n\n\n\n\nJun 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWhy regenerative agriculture? Why biodiversity? Why a PhD?\n\n\n\nPersonal & PhD Life\n\n\n\n\n\n\n\n\n\nJun 5, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/posts/intro.html",
-    "href": "blog/posts/intro.html",
-    "title": "Why regenerative agriculture? Why biodiversity? Why a PhD?",
-    "section": "",
-    "text": "As a small kid I spent hours and hours in the garden of our neighbours. To me, it was a semi-natural paradise where I could find all the tiny bugs my heart desired. From woodlice to butterflies, and from bees to lady bugs. This fascination with the natural world eventually led me to Utrecht University, where I obtained my BSc in biology and MSc in environmental biology. During my studies, the idea of pursueing a PhD had been there almost from the start. I realised how much I enjoy deep-diving into a topic, which is what I get to do now on a daily basis. What I did not expect was that the topic of my research would be linked to agriculture. Looking back, this is not a very surprising turn of events. I grew up in a small village in the clay polders of West-Brabant, and worked at a farm for nearly 10 years. 1+1 is 2 I guess…"
   },
   {
     "objectID": "cv.html",
@@ -77,10 +42,31 @@
     "text": "Skills\n\nProgramming\n\nR\nPython\nGIS\nQuarto\nGit\n\n\n\nLanguages\n\nDutch (native)\nEnglish (fluent)"
   },
   {
-    "objectID": "JornKnuit.github.io/cv.html",
-    "href": "JornKnuit.github.io/cv.html",
-    "title": "CV",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "About this site"
+    "text": "Description of research vision"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\n\n\n\nLandscape-scale forest cover shapes the complexity of seed-dispersal networks in regenerating forest fragments.\n\n\nTimmers, R., Côrtes, M. C., van Kuijk, M., Canassa, G. G., Staneke, R., Rosin, F. S. O., van Hooff, M. P. J., Knuit, J. J. H., Pires, M. M., & Soons, M. B.  Biological conservation, 309, 1-11. Article 1113122. DOI\n\n\n\n2025"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Jorn Knuit",
+    "section": "About me",
+    "text": "About me\nI’m a PhD candidate based in Utrecht, at the Copernicus Institute of Sustainable Development. Here, I work on quantifying and understanding responses of aboveground biodiversity to regenerative agriculture. My PhD project is part of ReGeNL, a transdisciplinary programme aiming to aid in the transition towards a futureproof agricultural sector in the Netherlands. I am supervised by Prof. dr. Merel Soons, Dr. Jerry van Dijk, and Dr. Sietze Norder, and work in close collaboration with a large team of researchers from Dutch universities and research institutes. You can find more information about my ongoing research in Research and my Blog.\nI have a background in ecology, holding a BSc in Biology and an MSc in Environmental Biology from Utrecht University. During my studies I specialised in Ecology and Natural Resource Management and developed an interest in ecological modeling, completing projects on seed dispersal interactions in the Atlantic Forest and forest-savanna tipping in the Amazon Basin.\nOutside of science, I spend a lot of time on music. Besides playing saxophone, clarinet, and (bass) guitar I enjoy writing and arranging music for various ensembles, ranging from saxophone quartets to full orchestral arrangements."
+  },
+  {
+    "objectID": "index.html#latest-posts",
+    "href": "index.html#latest-posts",
+    "title": "Jorn Knuit",
+    "section": "Latest posts",
+    "text": "Latest posts"
   }
 ]
