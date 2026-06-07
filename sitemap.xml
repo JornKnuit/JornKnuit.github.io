@@ -1,31 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://JornKnuit.github.io/blog/posts/intro.html</loc>
-    <lastmod>2026-06-07T18:56:12.332Z</lastmod>
-  </url>
-  <url>
-    <loc>https://JornKnuit.github.io/blog/index.html</loc>
-    <lastmod>2026-06-07T18:56:12.331Z</lastmod>
-  </url>
-  <url>
-    <loc>https://JornKnuit.github.io/cv.html</loc>
-    <lastmod>2026-06-07T18:56:12.332Z</lastmod>
-  </url>
-  <url>
     <loc>https://JornKnuit.github.io/research.html</loc>
-    <lastmod>2026-06-07T18:56:12.333Z</lastmod>
+    <lastmod>2026-06-04T17:25:22.763Z</lastmod>
   </url>
   <url>
-    <loc>https://JornKnuit.github.io/contact.html</loc>
-    <lastmod>2026-06-07T18:56:12.332Z</lastmod>
+    <loc>https://JornKnuit.github.io/JornKnuit.github.io/index.html</loc>
+    <lastmod>2026-06-03T19:05:56.461Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JornKnuit.github.io/JornKnuit.github.io/contact.html</loc>
+    <lastmod>2026-06-03T19:05:56.459Z</lastmod>
   </url>
   <url>
     <loc>https://JornKnuit.github.io/index.html</loc>
-    <lastmod>2026-06-07T18:56:12.332Z</lastmod>
+    <lastmod>2026-06-04T07:29:09.858Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JornKnuit.github.io/contact.html</loc>
+    <lastmod>2026-06-03T19:06:07.228Z</lastmod>
   </url>
   <url>
     <loc>https://JornKnuit.github.io/blog/posts/fieldwork_start_2026.html</loc>
-    <lastmod>2026-06-07T18:56:12.332Z</lastmod>
+    <lastmod>2026-06-05T11:43:27.392Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JornKnuit.github.io/blog/index.html</loc>
+    <lastmod>2026-06-04T17:23:45.200Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JornKnuit.github.io/blog/posts/intro.html</loc>
+    <lastmod>2026-06-07T18:54:14.847Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JornKnuit.github.io/cv.html</loc>
+    <lastmod>2026-06-04T17:45:38.672Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JornKnuit.github.io/JornKnuit.github.io/blog.html</loc>
+    <lastmod>2026-06-03T19:05:56.457Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JornKnuit.github.io/JornKnuit.github.io/cv.html</loc>
+    <lastmod>2026-06-03T19:05:56.460Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JornKnuit.github.io/JornKnuit.github.io/research.html</loc>
+    <lastmod>2026-06-03T19:05:56.461Z</lastmod>
   </url>
 </urlset>
